@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Membaca dataset dari file CSV
-file_path = "diabetes_dataset.csv"  # Sesuaikan dengan lokasi file Anda
+file_path = "diabetes_dataset.csv"  
 df = pd.read_csv(file_path)
 
 # Menampilkan informasi dataset
