@@ -1,0 +1,1 @@
+print("Aditia Sami Halim, 1103223010, TK_46-02")
